@@ -14,6 +14,5 @@ The tasks performed in this analysis include:
 3. Availability per Day
 4. Reviews, Occupancy per Listing, Average Income
 5. Listings per Room Type
-6. Prices per Day
-7. Listings per Host
-8. Visualize Listings
+6. Listings per Host
+7. Visualize Listings
