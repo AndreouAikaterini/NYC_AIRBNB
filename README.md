@@ -1,8 +1,8 @@
-# ATHENS_AIRBNB
+# NYC_AIRBNB
 
-Exploring Airbnb in Athens
+Exploring Airbnb in NYC
 
-Snapshot of Athens Airbnb as of December 2023. The data source is from Airbnb: http://insideairbnb.com/get-the-data.html.
+Snapshot of NYC Airbnb as of December 2023. The data source is from Airbnb: http://insideairbnb.com/get-the-data.html.
 
 This repository contains a Jupyter Notebook for analyzing Airbnb listing data. 
 The analysis focuses on answering specific questions related to neighborhood listings, prices, availability, and more.
